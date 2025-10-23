@@ -26,3 +26,6 @@ Future industry projections and trends
 Tool: Tableau
 Data Source: Multiple public and curated datasets on EV markets
 Time Frame: 2010-2024
+
+
+Link for the dataset: https://drive.google.com/file/d/11dI_p4LrT8Wh2gp_-EsW7oVr5ymlIftc/view?usp=drive_link
